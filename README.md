@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # express-locallibrary-tutorial
 
 Tutorial "Local Library" website written in in Node/Express.
@@ -34,3 +35,6 @@ To get this project up and running locally on your computer:
 4. Open a browser to <http://localhost:3000/> to open the library site.
 
 > **Note:** The library uses a default MongoDB database hosted on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas). You should use a different database for your own code experiments.
+=======
+# ativweb
+>>>>>>> d56ca439fcc71c1fb678604c8c16375a15c90abc
